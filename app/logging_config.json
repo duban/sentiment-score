@@ -1,0 +1,12 @@
+
+{
+  "logger": {
+    "path": "var/",
+    "ext": ".log",
+    "level": "info",
+    "rotation": "20 days",
+    "retention": "1 months",
+    "format": "{time:YYYY-MM-DD HH:mm:ss} - {level} - {message}"
+
+  }
+}

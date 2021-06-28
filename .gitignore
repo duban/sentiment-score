@@ -1,0 +1,10 @@
+# IntelliJ IDE
+.idea/
+
+# Python cached
+__pycache__/
+.pytest_cache
+
+# logs
+*.log
+
